@@ -4,6 +4,7 @@
 * ![Markdown cheat sheet image](https://i.pinimg.com/originals/da/1e/3f/da1e3fe735a1b115a8a6773e67d6d825.png)
 ## training files
 * [ICOPS](https://hackmd.io/5jzdeKDUQuuaDQL-9LXijA?both)
+* [License options](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
 ## License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
